@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=acharya-praatik&theme=dracula" alt="acharya-praatik trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=acharya-praatik&theme=dracula" alt="acharya-pratik trophies" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pratik-acharya-0b08382b2/" target="_blank">
+  <a href="https://www.linkedin.com/in/acharya-pratik/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/DIGITAL.PRATIKACHARYA" target="_blank">
