@@ -21,9 +21,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Add links when available -->
-  <!-- <a href="https://twitter.com/YOUR_HANDLE" target="blank"><img src="https://img.shields.io/twitter/follow/YOUR_HANDLE?logo=twitter&style=for-the-badge" alt="Twitter Follow"/></a> -->
+  <a href="https://www.linkedin.com/in/pratik-acharya-0b08382b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/DIGITAL.PRATIKACHARYA" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/apratik331/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/apratik331" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="mailto:apratik331@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+
 
 ---
 
@@ -46,13 +60,13 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acharya-pratik&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acharya-pratik&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=acharya-pratik&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=acharya-pratik&show_icons=true&locale=en&bg_color=00000000" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharya-pratik" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharya-pratik&background=00000000&hide_border=true" alt="GitHub Streak" />
 </p>
